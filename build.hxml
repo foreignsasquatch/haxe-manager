@@ -1,0 +1,4 @@
+-cp source
+-m Main
+-lib format
+-neko run.n
